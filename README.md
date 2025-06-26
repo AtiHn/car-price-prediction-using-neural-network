@@ -48,6 +48,7 @@ Evaluation Metric: Mean Absolute Error (mae)
 ## 🏁 How to Run This Project
 
 1.Clone the repository:
+```
 git clone https://github.com/your-username/car-price-prediction-using-neural-network.git
 cd car-price-prediction-using-neural-network
 
