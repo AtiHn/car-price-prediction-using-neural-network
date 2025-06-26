@@ -42,7 +42,7 @@ Input Layer → Dense(64, ReLU)
 Loss Function: Mean Squared Error (mse)
 Optimizer: Adam
 Evaluation Metric: Mean Absolute Error (mae)
-
+```
 ---
 
 ## 🏁 How to Run This Project
@@ -51,7 +51,7 @@ Evaluation Metric: Mean Absolute Error (mae)
 ```
 git clone https://github.com/your-username/car-price-prediction-using-neural-network.git
 cd car-price-prediction-using-neural-network
-
+```
 2. Install dependencies:
 pip install -r requirements.txt
 
